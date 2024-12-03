@@ -1,3 +1,5 @@
+-- Basic 
+
 -- 1. SELECT - Retrieving Data
 -- Select all columns from a table
 SELECT * FROM employees;
