@@ -91,3 +91,5 @@ ALTER TABLE employees MODIFY COLUMN salary DECIMAL(12, 2);
 -- 14. DROP TABLE - Deleting a Table
 -- Drop a table (delete the table and all its data)
 DROP TABLE employees;
+
+--15. 
