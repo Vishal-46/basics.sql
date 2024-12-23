@@ -1,4 +1,4 @@
--- Basic Query Commands
+-- Basic Query Commands from online sources
 -- 1. SELECT - Retrieving Data
 -- Select all columns from a table
 SELECT * FROM employees;
