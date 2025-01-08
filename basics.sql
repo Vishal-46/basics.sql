@@ -83,7 +83,6 @@ CREATE TABLE employees (
 -- 13. ALTER TABLE - Modifying a Table
 -- Add a new column
 ALTER TABLE employees ADD email VARCHAR(100);
-
 -- Modify an existing column
 ALTER TABLE employees MODIFY COLUMN salary DECIMAL(12, 2);
 
