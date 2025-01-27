@@ -1,2 +1,2 @@
 --Structured Query Language: Learning SQL for Datascience to work with SQL and Python.
---
+--SS
